@@ -1,4 +1,13 @@
-sn://wg?eNpjYmBgMDQz0jM0tdQztDTVM9w4X4SBYaehOVDITM9Az0jf2IjLyMzAzMrE3MDAytDQwMrCzNzUyjw1OcXKyCQpzcowJTnJysIoMU3f0MhibbifY1JQfrlFREiZR3BxcoijqXtyoFlRYniWd3qBs3NGQWq4YWhVjouHsaPt2qTcCH9nbTdDtwpXXzfLlMpMbyMPU33D4NCSKg8Dr9KwfFPDDKPygLT0ynzbRgZWBoZyv5RXjEAX99xYdWPzjVUKN5bf7rmx8cbym203Nt9saWwEAEmMQvg
+sn://wg?eNpjYmBgMDQz0jM0tdQztATSRhs_SDMw7DQ0B7LN9Az0jPSNjbiMzAzMrEzMDQysDA0NrCxMEk2skiwMTKxMLAwSrRLNLS2skpJNTPUNjSzWhvuHuQdV-IeWlmtnBThn5buZufqUBxumVxX4JroGlniFlJcZlFX6pfoYlduuTcqN8HfWdjN0q3D1dbNMqcz0NvIAGhMcWlLlYeBVGpZvaphhVB6Qll6Zb9vIwMrA4BwRdIwR6OSJbxfsebtnqsKN5bd7bmy8sfxm243NN1sUbqy6sfnGKgXDxkYA27ZH2A
+
+
+sn://wg?eNpjYmBgMDQz0jM0tdQztDTVMzTcGcbMwLDD0BwoZqZnoGekb2zEZWRmYGZlYm5gYGVoaGBlkWhsbGWRlmRqZWxsYWVqYZJslZxsYqJvaGSxttA9I98y1bDEIsmroDQnMt_C08K9zKIywikx2Ew7NdffPD3PQ9upuNLPzcJ2bVJuhL-ztpuhW4Wrr5tlSmWmt5GHqb5hcGhJlYeBV2lYvqlhhlF5QFp6Zb5tIwMrA4OXvvN5RqCLJ75dsOftnqkKN5bf7rmx8cbym203Nt9sUbix6sbmG6sUjBobAeF4Rhc
+
+
+sn://wg?eNoB1wAo_wIAAAAxODguMTE0Ljk3LjIxssgDAAC5MTcyLjE2LjAuMi8zMgoyNjA2OjQ3MDA6MTEwOjhhNzM6YjAxMzoxMDk1OmFhOWY6MTc2Ni8xMjitc051OUN2QXFoTm44YmU2ZjJkUExmMFR2bDBmKzd4d0c5UnVZRlQvRE9uTT2tYm1YT0MrRjFGeEVNRjlkeWlLMkg1LzFTVXR6SDBKdVZvNTFoMndQZmd5bz2BAAUAADBRbbgBAAAAke2gvO28lSDYp9uM2LHYp9mG2LPZhCDYqtiz2KogM4GBFepGXw
+
+
+
 
 vless://92da355a-c002-44d2-9276-8f7bee291dd4@104.18.13.229:8443/?type=ws&encryption=none&host=pardazeshvpn-tg37.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg37.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%D8%A2%D9%84%D9%85%D8%A7%D9%86%F0%9F%94%B5
 vless://6a93d4f3-e9a5-4d3c-9ddf-cc0def1d2045@185.146.173.58:80/?type=ws&encryption=none&host=7.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9166.Site.&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%AA%20%D8%B3%D9%88%D8%A6%D8%AF
