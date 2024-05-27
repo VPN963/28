@@ -1,3 +1,4 @@
+❤️
 vless://346b50dd-e675-4e45-8431-3cd632502281@[2a12:5940:4347::2]:33470/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#%F0%9F%87%B8%F0%9F%87%AA%2BVIP%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 vmess://eyJhZGQiOiI3Ny4xMDUuMTQ2Ljk1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZmYTMyYjc3LTRkN2UtNDA1ZC05OGU5LTIxNDg4ZTIxN2I1OSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYyMDYiLCJwcyI6IvCfh6nwn4eqK0dlcm1hbnkyINin24zYsdin2YbYs9mEIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://d6f00646-e98d-440e-92e0-a2f0574631aa@tapsell.ir:2087/?type=grpc&encryption=none&security=tls&sni=oop.fandakiha.ir&fp=chrome#%F0%9F%87%A9%F0%9F%87%AAGermany%2B%D9%87%D9%85%D8%B1%D8%A7%D9%87%2B%D8%A7%D9%88%D9%84
